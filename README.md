@@ -20,66 +20,70 @@
 ## 🛠️ Tools & Skills
 
 ---
-### 🧩 Languages & Libraries
+### 🐍 Programming & Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
----
-### 📊 Visualization & BI Tools
+### 🗄️ SQL & Databases
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-### 🗄️ Databases
+### 📊 Business Intelligence & Visualization
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-### ⚙️ Other Tools
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 ## 📂 Featured Projects
 
-### ✅ Task Management System — Python
+# 🚀 Featured Projects
 
-- Developed a console-based Task Management System using Python
-- Implemented features to add, update, delete, and mark tasks as completed
-- Used lists, dictionaries, loops, and conditional statements for task handling
-- Added priority management and task status tracking functionality
-- Improved understanding of Python fundamentals and CRUD operations
-  
-### ❤️ Cardiovascular Disease EDA — Python
+## 🚀 Featured Projects
 
-- Performed Exploratory Data Analysis on cardiovascular disease dataset
-- Cleaned missing values, duplicates, and inconsistent data
-- Created visualizations using Pandas, Matplotlib, and Seaborn
-- Identified patterns between age, cholesterol, blood pressure, and heart disease
-- Generated insights to understand major health risk factors
+- 🩺 **[Cardiovascular Disease EDA](YOUR_LINK)** — EDA identifying key patterns and risk factors. `Python • Pandas • Seaborn`
 
-### 🎬 IMDB Movie Sales Analysis — Power BI
+- 👥 **[Customer Churn Analysis](YOUR_LINK)** — Dashboard analyzing churn patterns and customer insights. `Power BI`
 
-- Analyzed IMDb movie dataset to identify trends in ratings, genres, and revenue
-- Built interactive Power BI dashboards with charts and KPIs
-- Performed data cleaning and transformation for better analysis
-- Identified top-performing genres and highly rated movies
-- Generated business insights using data visualization and storytelling
+- 🏦 **[Retail Banking Transaction Analysis](YOUR_LINK)** — SQL analysis of banking transactions and customer behavior. `SQL • MySQL`
+
+- 🏢 **[AmbitionBox Web Scraping](YOUR_LINK)** — Web scraping and preparation of company data for analysis. `Python • BeautifulSoup • Pandas`
+
+- ✅ **[Task Management System](YOUR_LINK)** — Console-based task management application. `Python`
+
 
 ---
 ## 📜 Certifications
-- Python Programming
-- Deloitte Job Simulation
-- Power BI Workshop
+
+- 🐍 Python Programming
+- 🔍 Exploratory Data Analysis (EDA)
+- 📊 Power BI Workshop
+- 💼 Deloitte Job Simulation
+
   
 ---
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Harish-031&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-031&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish-318&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-318&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/harish-patil-057a5a256
+💼 **LinkedIn:** [Harish Patil](https://www.linkedin.com/in/harish-patil-057a5a256)  
+📧 **Email:** [Contact Me](mailto:harishpatil2044@gmail.com) 
