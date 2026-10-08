@@ -50,19 +50,15 @@
 ---
 ## 📂 Featured Projects
 
-# 🚀 Featured Projects
+- 🩺 **[Cardiovascular Disease EDA](https://github.com/Harish-318/Cardiovascular-Disease-EDA.git)** — EDA identifying key patterns and risk factors. `Python • Pandas • Seaborn`
 
-## 🚀 Featured Projects
+- 👥 **[Customer Churn Analysis](https://github.com/Harish-318/PowerBI-Customer_Churn_Analysis.git)** — Dashboard analyzing churn patterns and customer insights. `Power BI`
 
-- 🩺 **[Cardiovascular Disease EDA](YOUR_LINK)** — EDA identifying key patterns and risk factors. `Python • Pandas • Seaborn`
+- 🏦 **[Retail Banking Transaction Analysis]** — SQL analysis of banking transactions and customer behavior. `SQL • MySQL`
 
-- 👥 **[Customer Churn Analysis](YOUR_LINK)** — Dashboard analyzing churn patterns and customer insights. `Power BI`
+- 🏢 **[AmbitionBox Web Scraping]** — Web scraping and preparation of company data for analysis. `Python • BeautifulSoup • Pandas`
 
-- 🏦 **[Retail Banking Transaction Analysis](YOUR_LINK)** — SQL analysis of banking transactions and customer behavior. `SQL • MySQL`
-
-- 🏢 **[AmbitionBox Web Scraping](YOUR_LINK)** — Web scraping and preparation of company data for analysis. `Python • BeautifulSoup • Pandas`
-
-- ✅ **[Task Management System](YOUR_LINK)** — Console-based task management application. `Python`
+- ✅ **[Task Management System](https://github.com/Harish-318/Task-Management-System.git)** — Console-based task management application. `Python`
 
 
 ---
